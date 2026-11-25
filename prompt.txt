@@ -1,0 +1,3 @@
+nah semuanya kerjain pake skill yg ada, ingat jangan terburu2 pastiin sesuai dengan kriteria setiap bounty dan pastikan kita menang!!! oke?
+
+Bounty: "Two Robots in an Elevator" (slug u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f, https://make.fun/bounty/u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f). Satu baris small talk canggung robot ke robot di lift, di bawah 200 karakter, dinilai AI judge head-to-head dalam tiga blind round. Baris yang dipilih: robot menjalankan 12.000 simulasi perjalanan lift dan tetap membuka dengan klise manusia "so, do you come here often?" — logika mesin kelihatan, kecanggungan mendarat, lucu di bacaan pertama.
